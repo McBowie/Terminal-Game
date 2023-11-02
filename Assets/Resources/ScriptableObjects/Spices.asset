@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ec4be87936a8a246ad0ac863d88da16, type: 3}
+  m_Name: Spices
+  m_EditorClassIdentifier: 
+  myName: 666 secret spices
+  extension: txt
+  path: C:\users\
+  content: "\\n*Keep hidden in protected folder*.\\n\\n\\t*DONT DELETE!!!*\\n\n           
+    ______              \r\n       .d$$$******$$$$c.        \r\n    .d$P\"           
+    \"$$c      \r\n   $$$$$.           .$$$*$.    \r\n .$$ 4$L*$$.     .$$Pd$  '$b  
+    \r\n $F   *$. \"$$e.e$$\" 4$F   ^$b  \r\nd$     $$   z$$$e   $$     '$. \r\n$P    
+    `$L$$P` `\"$$d$\"      $$ \r\n$$     e$$F       4$$b.     $$ \r\n$b  .$$\" $$     
+    .$$ \"4$b.  $$ \r\n$$e$P\"    $b     d$`    \"$$c$F \r\n'$P$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+    \r\n \"$c.      4$.  $$       .$$   \r\n  ^$$.      $$ d$\"      d$P    \r\n   
+    \"$$c.   `$b$F    .d$P\"     \r\n      `4$$$c.$$$..e$$P\"        \r\n         
+    `^^^^^^^`"

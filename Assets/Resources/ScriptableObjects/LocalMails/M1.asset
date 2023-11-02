@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ec4be87936a8a246ad0ac863d88da16, type: 3}
+  m_Name: M1
+  m_EditorClassIdentifier: 
+  myName: 178816
+  extension: txt
+  path: Mail\
+  content: 'ID: #178816\t\t\tFrom: Bowser@Castle.net\n\nSubject: Dear Pesky Plumbers\n\n\nDear
+    Pesky Plumbers,\n\n\nThe Koopalings and I have taken over the Mushroom Kingdom.
+    The Princess is now a permanent guest at one of my seven Koopa Hotels. I dare
+    you to find her, if you can! If you need instructions on how to get through the
+    hotels, check out the enclosed instruction book.\n\t\t\t\t-Bowser'

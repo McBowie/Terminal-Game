@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ec4be87936a8a246ad0ac863d88da16, type: 3}
+  m_Name: M2
+  m_EditorClassIdentifier: 
+  myName: 193214
+  extension: txt
+  path: Mail\
+  content: 'ID: #193214\t\t\tFrom: Sandals@KFCow.com\n\nSubject: Welcome aboard!\n\n\nHi!\nWelcome
+    to the crew. We hope for a long and fruitful cooperation.\nIf you happen to require
+    assistance, please ping our tech support team. More info on the subject should
+    be available on the leaflet you received during the interview.\n\t\t\t\t- C.
+    Sandals'

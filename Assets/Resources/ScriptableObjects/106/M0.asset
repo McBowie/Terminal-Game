@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ec4be87936a8a246ad0ac863d88da16, type: 3}
+  m_Name: M0
+  m_EditorClassIdentifier: 
+  myName: 203151
+  extension: txt
+  path: Mail\
+  content: 'ID: #203151\t\t\tFrom: MPudan@ocwaxa.com\n\n<UNREAD>Subject: Car warranty\n\n\nHi!\nWe''ve
+    been trying to reach you concerning your vehicle''s extended warranty. You should''ve
+    received a notice in the mail about your car''s extended warranty eligibility.
+    Since we''ve not gotten a response, we''re sending you a final courtesy email
+    before we close out your file. Please, contact us via this email address.'
