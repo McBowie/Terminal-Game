@@ -964,7 +964,7 @@ public class Machines : MonoBehaviour
         ////////////////////////////////////////////////////////////////
 
         machinesList.Add(new RemoteMachine("106.90.217.75"));
-        machinesList[^1].fileSys.NewFile("JohnDoe", "doc", "C:\\users\\", "okes0ftware", true);
+        machinesList[^1].fileSys.NewFile("JohnDoe", "doc", "C:\\users\\", "John1983", true);
 
         ScriptableFile Snake = Resources.Load<ScriptableFile>("ScriptableObjects/Snake");
         machinesList[^1].fileSys.NewFile(Snake.myName, Snake.extension, Snake.path, Snake.content, false);

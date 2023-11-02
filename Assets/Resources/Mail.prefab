@@ -635,9 +635,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'To navigate, simply type in the ID number of a mail You wish to read,
-    to fall back, type in ''Q'', to write a mail, type in ''W''\n\nID: #179254\t\tFrom:
-    haxx0r@cmail.com\n<UNREAD>\nSubject: the ip\n<mark=#000020FF>s\t\t\t\t\t\t\t</mark>
+  m_text: 'To navigate, simply type in the ID number of a mail (without the #) You
+    wish to read, to fall back, type in ''Q'', to write a mail, type in ''W''\n\nID:
+    #179254\t\tFrom: haxx0r@cmail.com\n<UNREAD>\nSubject: the ip\n<mark=#000020FF>s\t\t\t\t\t\t\t</mark>
 
     ID:
     #178816\t\tFrom: Bowser@Castle.net\n<READ> \nSubject: Dear Pesky Plumbers\n<mark=#000020FF>s\t\t\t\t\t\t\t</mark>

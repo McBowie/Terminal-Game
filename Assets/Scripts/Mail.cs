@@ -39,7 +39,7 @@ public class Mail : MonoBehaviour
     IEnumerator Instructions()
     {
 
-        display.text = "\n\nTo navigate, simply type in the ID number of a mail You wish to read, to fall back, type in 'Q', to write a mail, type in 'W', to log a mail to your machine, open it, then type in 'L'\n\n\t\tPress RETURN to continue";
+        display.text = "\n\nTo navigate, simply type in the ID number (without the '#') of a mail You wish to read, to fall back, type in 'Q', to write a mail, type in 'W', to log a mail to your machine, open it, then type in 'L'\n\n\t\tPress RETURN to continue";
         while(!Input.GetKeyDown(KeyCode.Return))
         {
             yield return null;
@@ -54,7 +54,7 @@ public class Mail : MonoBehaviour
         Regex ID = new Regex(@"(?<=ID: ).*?(?=(\\t))");
         Regex FROM = new Regex(@"(?<=From: ).*?(?=(\\n))");
         Regex SUBJECT = new Regex(@"(?<=Subject: ).*?(?=(\\n))");
-        display.text = "To navigate, simply type in the ID number of a mail You wish to read, to fall back, type in 'Q', to write a mail, type in 'W', to log a mail to your machine, open it, then type in 'L'\n\n";
+        display.text = "To navigate, simply type in the ID number (without the '#') of a mail You wish to read, to fall back, type in 'Q', to write a mail, type in 'W', to log a mail to your machine, open it, then type in 'L'\n\n";
 
         foreach (FileSystem.File mail in machines.localMachine.fileSys.Directories.Find(x => x.path == "" && x.name == "Mail\\").files)
         {
